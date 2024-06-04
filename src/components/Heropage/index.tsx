@@ -9,7 +9,7 @@ import MAN from "../../../public/man2.png"
 const Homepage = () => {
   return (
     <>
-    <div className=' '>
+    {/* <div className=' '>
       <div className='flex lg:w-[1199px] lg:ml-[320px] h-screen hero_bg   justify-between items-center mobile_hero'>
         
         <div className=' text-white text-center lg:move_bg'>
@@ -27,7 +27,7 @@ const Homepage = () => {
 
 
       </div>
-      </div>
+      </div> */}
       <Aboutpage/>
       <Resumepage/>
      

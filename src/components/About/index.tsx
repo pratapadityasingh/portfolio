@@ -37,7 +37,7 @@ const Aboutpage = () => {
                             </div>
                             <div className='lg:py-5 lg:flex lg:justify-between'>
                                 <div className=''>
-                                    <div className='flex gap-1 p-2 items-center'>
+                                    <div className='flex gap-1 p-2  items-center'>
                                         <IoIosArrowForward />
                                         <h1 className='text-lg font-semibold'>Birthday:</h1>
                                         <h2 className='text-lg'>1 May 2004</h2>
