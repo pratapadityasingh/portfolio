@@ -1,10 +1,11 @@
-import React from 'react'
+import React, { useState } from 'react'
 import { CgMail } from 'react-icons/cg';
 import { MdOutlinePermPhoneMsg } from 'react-icons/md';
 import { SlLocationPin } from 'react-icons/sl';
 
 
 const Contactpage = () => {
+    const [temp, settemp] = useState(456)
     return (
         <>
             <div id="contact" className='lg:w-[1199px] lg:ml-[320px] lg:p-5 p-8 scroll-auto z-50 bg-[#060B27]'>
@@ -14,7 +15,7 @@ const Contactpage = () => {
                 </div>
                 <div>
                     <p className="text-base text-white lg:px-6 px-5">
-                    Have a project in mind or just want to say hello? Feel free to get in touch with me. I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions.
+                        Have a project in mind or just want to say hello? Feel free to get in touch with me. I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions.
                     </p>
                 </div>
                 <div className='w-full  flex lg:justify-between lg:flex-row flex-col-reverse lg:p-8  lg:mt-0 '>
@@ -23,7 +24,7 @@ const Contactpage = () => {
 
                             <div className='flex lg:flex-row flex-col  gap-5 items-center lg:justify-start justify-center mt-2  '>
                                 <div>
-                                    <p className='text-4xl hover:text-fuchsia-400'data-aos="fade-down"><SlLocationPin /></p>
+                                    <p className='text-4xl hover:text-fuchsia-400' data-aos="fade-down"><SlLocationPin /></p>
                                 </div>
                                 <div>
                                     <h3 className='text-black text-xl font-bold' >Location</h3>
@@ -54,13 +55,13 @@ const Contactpage = () => {
                             <div className='w-full h-[251px] relative mt-3 '>
 
 
-                                
-                                    <iframe width="100%" height="100%" className="absolute inset-0" frameBorder="0" title="map" marginHeight="0" marginwidth="0" scrolling="no" 
-                                    src="https://maps.google.com/maps?width=100%&amp;height=600&amp;hl=en&amp;q=Indore+(My%20Business%20Name)&amp;ie=UTF8&amp;t=&amp;z=14&amp;iwloc=B&amp;output=embed"
-                                     classname="map_style rounded-lg"
-                                    ></iframe>
 
-                                
+                                <iframe width="100%" height="100%" className="absolute inset-0" frameBorder="0" title="map" marginHeight="0" marginwidth="0" scrolling="no"
+                                    src="https://maps.google.com/maps?width=100%&amp;height=600&amp;hl=en&amp;q=Indore+(My%20Business%20Name)&amp;ie=UTF8&amp;t=&amp;z=14&amp;iwloc=B&amp;output=embed"
+                                    classname="map_style rounded-lg"
+                                ></iframe>
+
+
                             </div>
                         </div>
 
@@ -77,11 +78,18 @@ const Contactpage = () => {
                                             <label className="block text-gray-700 text-sm font-bold mb-2" htmlFor="name">Name</label>
                                             <input className="w-full px-3 py-2 border border-gray-300 rounded-md" id="name" type="text" placeholder="Your name" />
                                         </div>
+                                        
 
                                         <div className="mb-4 lg:w-[45%] w-full">
                                             <label className="block text-gray-700 text-sm font-bold mb-2" htmlFor="email">Email</label>
                                             <input className="w-full px-3 py-2 border border-gray-300 rounded-md" id="email" type="email" placeholder="Your email" />
                                         </div>
+                                    </div>
+                                    <div>
+                                        
+
+
+
                                     </div>
 
 
@@ -126,9 +134,9 @@ const Contactpage = () => {
                     </div>
 
                 </div>
-                
+
             </div>
-            
+
         </>
     )
 }
