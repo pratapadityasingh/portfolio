@@ -37,39 +37,39 @@ const Aboutpage = () => {
                             </div>
                             <div className='lg:py-5 lg:flex lg:justify-between'>
                                 <div className=''>
-                                    <div className='flex gap-1 p-2 items-center'>
+                                    <div className='flex gap-1 lg:p-2 py-2 items-center'>
                                         <IoIosArrowForward />
                                         <h1 className='text-lg font-semibold'>Birthday:</h1>
                                         <h2 className='text-lg'>1 May 2004</h2>
                                     </div>
-                                    <div className='flex gap-1 p-2 items-center'>
+                                    <div className='flex gap-1 lg:p-2 py-2 items-center'>
                                         <IoIosArrowForward />
                                         <h1 className='text-lg font-semibold'>Website:</h1>
                                         <h2 className='text-lg'>https://portfolio-tvb6.vercel.app/</h2>
                                     </div>
-                                    <div className='flex gap-1 p-2 items-center'>
+                                    <div className='flex gap-1 lg:p-2 py-2 items-center'>
                                         <IoIosArrowForward />
                                         <h1 className='text-lg font-semibold'>Phone:</h1>
                                         <h2 className='text-lg'>+91 6204406826</h2>
                                     </div>
-                                    <div className='flex gap-1 p-2 items-center'>
+                                    <div className='flex gap-1 lg:p-2 py-2 items-center'>
                                         <IoIosArrowForward />
                                         <h1 className='text-lg font-semibold'>Degree:</h1>
                                         <h2 className='text-lg'>B.Tech</h2>
                                     </div>
                                 </div>
                                 <div className=''>
-                                    <div className='flex gap-1 p-2 items-center'>
+                                    <div className='flex gap-1 lg:p-2 py-2 items-center'>
                                         <IoIosArrowForward />
                                         <h1 className='text-lg text-left font-semibold'>Age:</h1>
                                         <h2 className='text-lg'>20</h2>
                                     </div>
-                                    <div className='flex gap-1 p-2 items-center'>
+                                    <div className='flex gap-1 lg:p-2 py-2 items-center'>
                                         <IoIosArrowForward />
                                         <h1 className='text-lg font-semibold'>Email:</h1>
                                         <h2 className='text-lg'>pratap.aditya.offcial@gmail.com</h2>
                                     </div>
-                                    <div className='flex gap-1 p-2 items-center'>
+                                    <div className='flex gap-1 lg:p-2 py-2 items-center'>
                                         <IoIosArrowForward />
                                         <h1 className='text-lg font-semibold'>Freelance:</h1>
                                         <h2 className='text-lg'>Available</h2>
