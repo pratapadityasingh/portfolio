@@ -17,46 +17,46 @@ const Resumepage = () => {
                         <div className='49%' data-aos="fade-up" data-aos-anchor-placement="top-center">
                             <h1 className='text-3xl p-1'>Summary</h1>
                             <div className="resume-item pb-0">
-                                <h4>John Doe</h4>
-                                <p className='lg:w-[400px] w-full'>Highly skilled full-stack developer with over 10 years of experience in developing scalable web applications. Proficient in JavaScript, React, Node.js, and various back-end technologies. Adept at collaborating with cross-functional teams to deliver high-quality projects on time.</p>
+                                <h4>Aditya Pratap</h4>
+                                <p className='lg:w-[400px] w-full'>Highly skilled full-stack developer with over 6 Month of experience in developing scalable web applications. Proficient in JavaScript, React, Node.js, and various back-end technologies. Adept at collaborating with cross-functional teams to deliver high-quality projects on time.</p>
                                 <ul>
                                     <li>Location: Indore, India</li>
-                                    <li>Phone: +91 594312344</li>
-                                    <li>Email: example@gmail.com</li>
+                                    <li>Phone: +91 6204406826</li>
+                                    <li>Email: pratap.aditya.official@gmail.com</li>
                                 </ul>
                             </div>
                             <h1 className='text-3xl p-1'>Education</h1>
                             <div className="resume-item pb-0">
                                 <h4>Bachelor of Technology in Computer Science</h4>
-                                <h5>ABC University, 2008-2012</h5>
+                                <h5>CDGI , 2021-2025</h5>
                                 <p className='lg:w-[400px] w-full'>Graduated with honors, specializing in software development and algorithms. Gained a solid foundation in computer science principles and practical experience through various projects and internships.</p>
                             </div>
                             <div className="resume-item pb-0">
-                                <h4>Master of Science in Software Engineering</h4>
-                                <h5>XYZ University, 2013-2015</h5>
+                                <h4>High School School</h4>
+                                <h5>DAV Public School, 2019-2021</h5>
                                 <p className='lg:w-[400px] w-full'>Focused on advanced software engineering methodologies, project management, and full-stack development. Completed a thesis on optimizing web application performance.</p>
                             </div>
                         </div>
                         <div className='49%' data-aos="fade-up" data-aos-anchor-placement="top-center">
                             <h1 className='text-3xl p-1'>Professional Experience</h1>
                             <div className="resume-item pb-0">
-                                <h4>Senior Full-Stack Developer</h4>
-                                <h5>Tech Solutions Inc., 2018-Present</h5>
+                                <h4> Full-Stack Developer</h4>
+                                <h5>Ment Tech, 2024-Present</h5>
                                 <p className='lg:w-[400px] w-full'>Lead a team of developers in creating dynamic, responsive web applications. Implemented new features and maintained existing codebase for a variety of client projects, ensuring optimal performance and user satisfaction.</p>
                                 <ul>
                                     <li>Location: Indore, India</li>
-                                    <li>Phone: +91 594312344</li>
-                                    <li>Email: example@gmail.com</li>
+                                    <li>Phone: +91 6204406826</li>
+                                    <li>Email: pratap.aditya.official@gmail.com</li>
                                 </ul>
                             </div>
                             <div className="resume-item pb-0">
                                 <h4>Full-Stack Developer</h4>
-                                <h5>Innovatech Solutions, 2015-2018</h5>
+                                <h5>Ment Tech</h5>
                                 <p className='lg:w-[400px] w-full'>Developed and maintained full-stack web applications using modern frameworks and technologies. Collaborated with designers and product managers to deliver user-centric solutions. Optimized application performance and scalability.</p>
                                 <ul>
                                     <li>Location: Indore, India</li>
-                                    <li>Phone: +91 594312344</li>
-                                    <li>Email: example@gmail.com</li>
+                                    <li>Phone: +916204406826</li>
+                                    <li>Email: pratap.aditya.official@gmail.com</li>
                                 </ul>
                             </div>
                         </div>

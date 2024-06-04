@@ -16,11 +16,11 @@ const Skilpage = () => {
                                             <p>HTML</p>
                                         </div>
                                         <div className='50%'>
-                                            <p>100%</p>
+                                            <p>90%</p>
                                         </div>
                                     </div>
                                     <div className='py-1'>
-                                        <ProgressBar completed={100} bgColor="#cfff13" baseBgColor="#FFFFFF" labelColor="#000000" borderRadius="10px" />
+                                        <ProgressBar completed={90} bgColor="#cfff13" baseBgColor="#FFFFFF" labelColor="#000000" borderRadius="10px" />
                                     </div>
                                 </div>
 
@@ -44,11 +44,11 @@ const Skilpage = () => {
                                             <p>JAVASCRIPT</p>
                                         </div>
                                         <div className='50%'>
-                                            <p>30%</p>
+                                            <p>50%</p>
                                         </div>
                                     </div>
                                     <div className='py-1'>
-                                        <ProgressBar completed={30} bgColor="#cfff13" baseBgColor="#FFFFFF" labelColor="#000000" borderRadius="10px" />
+                                        <ProgressBar completed={50} bgColor="#cfff13" baseBgColor="#FFFFFF" labelColor="#000000" borderRadius="10px" />
                                     </div>
                                 </div>
 
@@ -62,11 +62,11 @@ const Skilpage = () => {
                                             <p>React</p>
                                         </div>
                                         <div className='50%'>
-                                            <p>40%</p>
+                                            <p>70%</p>
                                         </div>
                                     </div>
                                     <div className='py-1'>
-                                        <ProgressBar completed={40} bgColor="#cfff13" baseBgColor="#FFFFFF" labelColor="#000000" borderRadius="10px" />
+                                        <ProgressBar completed={70} bgColor="#cfff13" baseBgColor="#FFFFFF" labelColor="#000000" borderRadius="10px" />
                                     </div>
                                 </div>
 
@@ -76,25 +76,25 @@ const Skilpage = () => {
                                             <p>Next Js</p>
                                         </div>
                                         <div className='50%'>
-                                            <p>50%</p>
+                                            <p>60%</p>
                                         </div>
                                     </div>
                                     <div className='py-1'>
-                                        <ProgressBar completed={50} bgColor="#cfff13" baseBgColor="#FFFFFF" labelColor="#000000" borderRadius="10px" />
+                                        <ProgressBar completed={60} bgColor="#cfff13" baseBgColor="#FFFFFF" labelColor="#000000" borderRadius="10px" />
                                     </div>
                                 </div>
 
                                 <div >
                                     <div className='flex justify-between p-1 text-white'>
-                                        <div className='50%'>
+                                        <div className='60%'>
                                             <p>Node Js</p>
                                         </div>
                                         <div className='50%'>
-                                            <p>30%</p>
+                                            <p>60%</p>
                                         </div>
                                     </div>
                                     <div className='py-1'>
-                                        <ProgressBar completed={30} bgColor="#cfff13" baseBgColor="#FFFFFF" labelColor="#000000" borderRadius="10px" />
+                                        <ProgressBar completed={60} bgColor="#cfff13" baseBgColor="#FFFFFF" labelColor="#000000" borderRadius="10px" />
                                     </div>
                                 </div>
 

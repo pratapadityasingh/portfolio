@@ -90,16 +90,16 @@ const Contactpage: React.FC = () => {
                                 </form>
                                 <div className="lg:mt-10 mt-4 text-center flex lg:flex-row lg:justify-around flex-col ">
                                     <div>
-                                        <p className="text-xl text-black font-bold">Our Office</p>
-                                        <p className="text-gray-700 ">123 Main Stret,Indore</p>
+                                        <p className="text-xl text-black font-bold">Our Location</p>
+                                        <p className="text-gray-700 ">Sudama Nagar,Indore</p>
                                     </div>
                                     <div>
                                         <p className="text-black text-xl font-bold">Email</p>
-                                        <p className="text-gray-700"> contact@example.com</p>
+                                        <p className="text-gray-700">pratap.aditya.official@gmail.com</p>
                                     </div>
                                     <div>
                                         <p className="text-black text-xl font-bold">Phone</p>
-                                        <p className="text-gray-700"> (123) 456-7890</p>
+                                        <p className="text-gray-700">+91 6204406826</p>
                                     </div>
                                 </div>
                             </div>

@@ -9,11 +9,11 @@ import MAN from "../../../public/man2.png"
 const Homepage = () => {
   return (
     <>
-    {/* <div className=' '>
+    <div className=' '>
       <div className='flex lg:w-[1199px] lg:ml-[320px] h-screen hero_bg   justify-between items-center mobile_hero'>
         
-        <div className=' text-white text-center move_bg'>
-          <h1 className='  font-bold  text-6xl'>Aditya <span className=' text-green-600'>Pratap</span></h1>
+        <div className=' text-white text-center lg:move_bg'>
+          <h1 className='  font-bold lg:text-white text-black text-6xl'>Aditya <span className=' text-green-600'>Pratap</span></h1>
           <p className='p-5 text-center text-lg font-bold '>I am Fullstack Developer.........</p>
         </div>
         <div>
@@ -27,7 +27,7 @@ const Homepage = () => {
 
 
       </div>
-      </div> */}
+      </div>
       <Aboutpage/>
       <Resumepage/>
      
