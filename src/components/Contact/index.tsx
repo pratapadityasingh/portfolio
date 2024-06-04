@@ -18,7 +18,7 @@ const Contactpage: React.FC = () => {
                         Have a project in mind or just want to say hello? Feel free to get in touch with me. I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions.
                     </p>
                 </div>
-                <div className='w-full  flex lg:justify-between lg:flex-row flex-col-reverse lg:p-8  lg:mt-0 '>
+                <div className='w-full  flex lg:justify-between lg:flex-row flex-col-reverse lg:p-8  lg:mt-0 mt-5 '>
                     <div className='lg:w-[38%] w-full mt-8 lg:mt-0 '>
                         <div className='mx-auto bg-white shadow-lg rounded-lg lg:p-8 p-4  '>
                             <div className='flex lg:flex-row flex-col  gap-5 items-center lg:justify-start justify-center mt-2  '>

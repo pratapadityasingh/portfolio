@@ -6,7 +6,7 @@ import { GrEmoji } from 'react-icons/gr'
 import { FaEnvelopeOpenText, FaHeadset } from 'react-icons/fa6'
 import { BsPerson } from 'react-icons/bs'
 import ProgressBar from '@ramonak/react-progress-bar'
-import MANS from "../../../public/man2.png"
+import MANS from "../../../public/aditya.jpg"
 import Skilpage from './Skills'
 
 const Aboutpage = () => {
@@ -23,7 +23,7 @@ const Aboutpage = () => {
                         </p>
                     </div>
                     <div className='lg:w-full lg:flex lg:justify-between lg:items-center lg:p-[40px]'>
-                        <div className='lg:w-[30%]'>
+                        <div className='lg:w-[30%] pr-5'>
                             <Image
                                 src={MANS}
                                 alt="Picture of the author"
